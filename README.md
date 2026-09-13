@@ -27,6 +27,24 @@ The application provides a public-facing website for visitors to explore photogr
 - Portfolio management (CRUD)
 - Portfolio image upload, replacement, and deletion
 
+## Project Screenshots
+
+### Homepage
+
+![Orca Photography Homepage](screenshots/g1.png)
+
+### Portfolio
+
+![Orca Photography Portfolio](screenshots/g3.png)
+
+### Booking
+
+![Orca Photography Booking](screenshots/g5.png)
+
+### Admin Dashboard
+
+![Orca Photography Admin Dashboard](screenshots/g6.png)
+
 ## Technology Stack
 
 | Technology | Usage |
